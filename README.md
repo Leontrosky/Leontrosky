@@ -1,7 +1,8 @@
  -hi,iam  Izaiah.
  -a Python developer
-- I’m interested in odject oriented programming in python
+- I’m interested in object oriented programming
 - reach me on  +254759192165
+- email addres:trilliondirham@gmail.com
 
 
 <!---
