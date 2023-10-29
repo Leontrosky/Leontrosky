@@ -1,4 +1,4 @@
- -hi,iam  Izaiah.
+ -hi,iam  Izaiah Orem.
  -a Python developer
 - I’m interested in object oriented programming
 - reach me on  +254759192165
